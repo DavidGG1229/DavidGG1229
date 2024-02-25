@@ -16,7 +16,7 @@
 <hr>
 <h3 align="center">Passionate about programming and machine learning enthusiast.</h3>
   <ul>
-    <li>🔭 I'm currently seeking job opportunities. <strong>CloudPay</strong></li>
+    <li>🔭 I'm currently seeking job opportunities. <strong></strong></li>
     <li>🌱 I’m currently learning <strong>Python,Machine Learning, SQL...</strong></li>
     <li>📫 How to reach me <strong>davidgomez1229g@gmail.com</strong></li>
   </ul>
