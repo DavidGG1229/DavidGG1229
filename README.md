@@ -1,5 +1,6 @@
 
-  ![Welcome to my profile]()
+  ![Welcome to my profile](![Ingeniero Mecatrónico • Python Developer • Machine Learning](https://github.com/DavidGG1229/DavidGG1229/assets/161259447/8afb9ced-8d2e-4186-ae75-df3452380ed0)
+)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
