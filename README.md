@@ -1,5 +1,5 @@
 
-  ![Welcome to my profile](![Ingeniero Mecatrónico • Python Developer • Machine Learning](https://github.com/DavidGG1229/DavidGG1229/assets/161259447/ab805f3f-2b32-4513-b682-6a3eb6d8f960)
+  ![Welcome to my profile](![Ingeniero Mecatrónico • Python Developer • Machine Learning (2)](https://github.com/DavidGG1229/Interfaz-Grafica-Python/assets/161259447/51135164-74f3-4837-b1bb-6658ab155abf))
 )
 )
 
